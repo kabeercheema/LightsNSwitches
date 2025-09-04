@@ -4,7 +4,7 @@
 
 > Multi-threaded Python service on a Raspberry Pi that reads **physical switches**, drives **indicator lights**, and communicates with vehicle ECUs over **CAN** using a Waveshare 2-CH CAN HAT (MCP2515/SocketCAN).
 
-![Vehicle console prototype](assets/vehicle-console.jpg)
+![Vehicle console prototype](assets/vehicle-console.jpeg)
 
 ---
 
